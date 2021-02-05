@@ -1,2 +1,4 @@
-This the first draft of chapter One of the book. You are welcome to add your views and edits.
+This the first draft of chapter One of the book. 
+It serves as the introductory chapter to the book.
+You are welcome to add your views and edits.
 Ok.
